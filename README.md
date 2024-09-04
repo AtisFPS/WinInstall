@@ -17,4 +17,4 @@ iwr -useb "" | iex
 
 ## Support // Contact
 - atis@poupli.net // atisfps@gmail.com
-- https://discord.com/invite/sSYEQUcwtf
+- [Via mon serveur discord](https://discord.com/invite/sSYEQUcwtf)
