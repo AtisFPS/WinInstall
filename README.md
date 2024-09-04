@@ -1,4 +1,4 @@
-# Windows Init 
+# Windows setup by Atis
 ### L'objectif de ce script est de configurer Windows et d'installer touts les prérequis systemes necessaire 
 
 #### Utilisation 
